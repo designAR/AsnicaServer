@@ -1,6 +1,6 @@
 ---
 name: "✅ Feature"
-about: Describe this issue template's purpose here.
+about: 機能開発
 title: ''
 labels: ''
 assignees: ''
