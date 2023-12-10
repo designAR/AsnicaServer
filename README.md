@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+開発環境
+ * Window10
+ * Rails7 7.0.8
+ * Ruby 3.2.2
+ * PostgreSQL 16, pgAdmin4
+ * gemのdeviseは使用禁止
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+最初のRails7＿単語帳Project
